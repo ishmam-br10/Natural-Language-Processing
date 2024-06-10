@@ -1,6 +1,6 @@
-# CSE440-Natural-Language-Processing
+# Natural-Language-Processing
 
-#What's Here ?
+# What's Here ?
 
 So, this is my journey to learning Natural Language Processing at Brac University. I will add my self made theory notes and my practical implementations including the codes and everything I will learn in this course.
 
