@@ -1,5 +1,4 @@
 # CSE440-Natural-Language-Processing
-![image](https://github.com/ishmam-br10/CSE440-Natural-Language-Processing/assets/113937167/47b22437-e072-4065-8015-852e8148c6a7)
 
 #What's Here ?
 
