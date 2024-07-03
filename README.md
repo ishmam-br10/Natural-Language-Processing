@@ -7,6 +7,8 @@ So, this is my journey to learning Natural Language Processing at Brac Universit
 # Table of Contents
 Other
 - [Neural Network Videos](https://github.com/ishmam-br10/Natural-Language-Processing/blob/main/Theory%20Notes/Neural%20Networks/Neural%20Network%20Youtube%20Videos.txt)
+
+
 Theory
 
 - [Linguistic Essentials](https://github.com/ishmam-br10/CSE440-Natural-Language-Processing/blob/main/Theory%20Notes/Nlp%20note%201%20--%20Linguistics%20Essentials%20(Ishmam).pdf)
