@@ -3,6 +3,8 @@
 # What's Here ?
 
 So, this is my journey to learning Natural Language Processing at Brac University (CSE440). I will add my self made theory notes and my practical implementations including the codes and everything I will learn in this course.
+All Credit goes to my course faculty [Professor Dr. Farig Sadeque](https://scholar.google.com/citations?user=ULNaeowAAAAJ&hl=en&oi=ao)
+
 
 # Table of Contents
 Other
