@@ -2,7 +2,7 @@
 
 # What's Here ?
 
-So, this is my journey to learning Natural Language Processing at Brac University (CSE440). I will add my self made theory notes and my practical implementations including the codes and everything I will learn in this course.
+So, this is my journey to learning Natural Language Processing at Brac University (CSE440). I will add my self made theory notes and my practical implementations including the codes and everything I will learn in this course. Please note that this repo only has contents before mid. Due to the July Revolution and quick end of the semester, I could not make notes of the topics of the final syllabus. If someone is willing to contribute, please contact me.
 All Credit goes to my course faculty [Professor Dr. Farig Sadeque](https://scholar.google.com/citations?user=ULNaeowAAAAJ&hl=en&oi=ao)
 
 
